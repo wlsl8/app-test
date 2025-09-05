@@ -22,3 +22,104 @@ body{
     margin: 0 auto;
     background-color: #fff;
 }
+
+.main .main_menu ul li{
+    font-size: 13px;
+    font-weight: bold;
+}
+.main .section-01 .inner h3{
+    font-size: 19px;
+    font-weight: bold;
+}
+.main .section-01 .inner .list .item .text b{
+    font-size: 13px;
+    font-weight: 400;
+}
+.main .section-01 .inner .list .item .text strong{
+    font-size: 13px;
+    font-weight: bold;
+}
+.main .section-01 .inner .list .item .text p{
+    font-size: 12px;
+    font-weight: 300;
+    color: #b4b4b4;
+}
+.main .section-03 .inner .list .item .text b{
+    font-size: 12px;
+    font-weight: bold;
+}
+.main .section-05 .inner h3{
+    font-size: 19px;
+    font-weight: bold;
+}
+.main .section-05 .inner .nav .gnb a{
+    font-size: 12px;
+    font-weight: 400;
+}
+.main .section-05 .inner .list .item h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+.main .section-05 .inner .list .item .text span{
+    font-size: 13px;
+    font-weight: bold;
+}
+.main .section-05 .inner .list .item .text p{
+    font-size: 12px;
+    font-weight: 300;
+}
+.main .section-05 .inner .list .item .text b{
+    font-size: 13px;
+    font-weight: bold;
+}
+.main .section-05 .inner .list .item .rank p{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.footer .inner .footer-01 .depth-01 strong{
+    font-size: 14px;
+    font-weight: bold;
+}
+.footer .inner .footer-01 .depth-01 ul li{
+    font-size: 13px;
+    font-weight: 400;
+    color: #8d8d8d;
+}
+.footer .inner .footer-01 .depth-02 b{
+    font-size: 13px;
+    font-weight: bold;
+}
+.footer .inner .footer-01 .depth-02 p{
+    font-size: 12px;
+    font-weight: 300;
+    color: #595959;
+}
+.footer .inner .footer-02 .gnb li a b{
+    font-size: 14px;
+    font-weight: bold;
+}
+.footer .inner .footer-02 .gnb ul li a{
+    font-size: 12px;
+    font-weight: 300;
+    color: #595959;
+}
+.footer .inner .footer-03 .depth-01{
+    font-size: 12px;
+    font-weight: 300;
+    color: #595959;
+}
+.footer .inner .footer-03 .depth-02 .text p{
+    font-size: 12px;
+    font-weight: 300;
+}
+.footer .inner .footer-03 .info p{
+    font-size: 11px;
+    font-weight: 200;
+    color: #d8d8d8;
+}
+.bar .gnb li a p{
+    font-size: 12px;
+    font-weight: 300;
+    color: #333333;
+}
